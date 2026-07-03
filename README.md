@@ -33,8 +33,52 @@
 * Practical experience in handling missing values and detecting anomalies.
 * Improved skills in data preprocessing and storytelling with data.
 
-This project strengthened my understanding of the complete EDA workflow and reinforced how critical data exploration is in building reliable data-driven solutions.
+📊 **Completed Task 2: Data Visualization – Code Alpha Internship** 🚀
 
-I look forward to applying these skills to more real-world datasets and expanding my expertise in Data Analytics and Machine Learning.
 
-#CodeAlpha #DataAnalytics #DataScience #Python #ExploratoryDataAnalysis #EDA #Pandas #NumPy #Matplotlib #Seaborn #MachineLearning #DataVisualization #Statistics #LearningJourney #WomenInTech
+### 🎯 Project Objective
+
+The objective of this task was to convert raw data into clear, informative, and visually engaging charts that simplify complex information and support data-driven decision-making. The project focused on:
+
+* Transforming raw data into meaningful visualizations.
+* Creating charts and graphs using **Matplotlib** and **Seaborn**.
+* Designing visuals that effectively communicate trends and patterns.
+* Building a compelling data story through visualization.
+* Developing portfolio-quality visualizations that demonstrate analytical skills.
+
+### 📈 Key Insights from the Titanic Dataset
+
+✅ Survival rates were significantly higher among female passengers than male passengers.
+
+✅ First-class passengers had the highest survival probability, highlighting the impact of passenger class.
+
+✅ Most passengers belonged to the third class, making it the largest passenger group.
+
+✅ Age distribution showed that younger passengers had relatively better survival chances.
+
+✅ Visual correlation analysis helped identify relationships between numerical features such as Age, Fare, Passenger Class, and Survival.
+
+✅ Count plots, histograms, box plots, heatmaps, and bar charts made hidden patterns easier to interpret and communicate.
+
+### 🛠️ Tools & Technologies Used
+
+* Python
+* Pandas
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
+
+### 💡 Key Learnings
+
+* Learned how effective visualizations simplify complex datasets.
+* Improved my ability to choose the right chart for different types of data.
+* Strengthened my skills in creating professional and presentation-ready dashboards and graphs.
+* Understood how visual storytelling enhances business insights and decision-making.
+* Gained practical experience in communicating analytical findings through impactful visualizations.
+
+This project reinforced the importance of **data visualization as a bridge between raw data and actionable insights**. Turning numbers into meaningful stories is an essential skill for every data analyst, and this task helped me strengthen that capability.
+
+Looking forward to exploring more advanced visualization techniques and building impactful data-driven solutions.
+
+
+
